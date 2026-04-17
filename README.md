@@ -1,51 +1,47 @@
-<h1 align="center">Robert Birschener</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Technology+Consultant;Cloud+Architecture+%7C+Automation+%7C+AI;Building+systems+that+solve+real+business+problems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Robert%20Birschener&fontSize=48&fontAlignY=40&color=0:020617,50:0ea5e9,100:7c3aed&desc=Cloud%20Architecture%20•%20Automation%20•%20AI%20Systems&descAlignY=65" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/robertbirchene">
-    <img src="https://img.shields.io/badge/GitHub-robertbirchene-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Cloud-Architecture-0F172A?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Driven-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Solutions-7C3AED?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=I+build+systems+that+solve+real+business+problems;Cloud+Architecture+%7C+Automation+%7C+AI;From+operational+chaos+to+scalable+systems" />
 </p>
 
 ---
 
-## About me
+## ⚡ About
 
-I build technology solutions focused on **real business impact**.
+I operate at the intersection of **technology, business, and execution**.
 
-My work is centered on transforming messy operations into structured systems through:
+My work is not about writing code —  
+it’s about **designing systems that eliminate operational chaos and scale companies**.
 
-- Cloud architecture
-- Process automation
-- AI-powered workflows
-- Systems integration
-- Scalable product thinking
+I specialize in:
 
-I don’t treat technology as the end product.  
-**Technology is the tool. Solving the problem is the product.**
+- Cloud-native architecture
+- Process automation (n8n, workflows, integrations)
+- AI-driven systems and agents
+- Backend platforms and internal tools
+- Turning fragmented operations into structured environments
+
+> Technology is not the product.  
+> **Solving the problem is.**
 
 ---
 
-## Core focus
+## 🧠 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,nodejs,ts,js,postgres,docker,redis,nginx,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,laravel,nextjs,react,nodejs,ts,js,postgres,docker,redis,nginx,linux,git" />
 </p>
 
 ---
 
-## What I build
+## 🧩 What I Actually Build
 
 ```txt
-→ Business systems
-→ Automation pipelines
-→ AI agents
-→ Cloud infrastructure
-→ Internal platforms
-→ Scalable architectures
+→ AI agents and intelligent workflows
+→ Automation pipelines (n8n, APIs, event-driven flows)
+→ Business platforms and internal systems
+→ Scalable cloud infrastructures
+→ Integrations between fragmented systems
+→ Data-driven decision environments
